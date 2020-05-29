@@ -5,7 +5,7 @@
         <router-link to="/home" exact>Home</router-link>
       </li>
       <li>
-        <router-link to="/people" exact>Main Heroes</router-link>
+        <router-link to="/people" exact>Heroes</router-link>
       </li>
       <li>
         <router-link to="/planets" exact>Planets</router-link>
