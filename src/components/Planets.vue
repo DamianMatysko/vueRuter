@@ -38,26 +38,17 @@ export default {
 
 <style >
 #planet {
-  columns: 200px 2;
-  column-gap: 30px;
-  column-rule: 1px solid black;
-  column-span: all;  
-  
-  width: 100%;
-  border: 2px solid #ccc;
-  padding: 10px;
-  margin-bottom: 30px;
-   max-width: 35%;
-   margin: 10% auto;
+max-width: 25%;
+  margin: 5% auto;
+   color: white;
 }
 .selectedPlanet {
   text-align: center;
   width: 100%;
   font-size: 1.4vw;
-  padding: 3px;
-  margin: 0px 0;
-  border: 1px solid black;
+  padding: 20px;
+  margin: 20px 0;
   box-sizing: border-box;
-  background: lightblue;
+  background: rgb(43, 121, 86);
 }
 </style>

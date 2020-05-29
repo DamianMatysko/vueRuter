@@ -1,8 +1,6 @@
 <template>
   <div class="home">
-    <h1 style="text-align: center;">This is a home page with a vue using</h1>
     <img style="display:block; margin:auto;" alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
   </div>
 </template>
 

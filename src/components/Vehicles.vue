@@ -38,17 +38,9 @@ export default {
 
 <style >
 #vehicles {
-  columns: 1;
-  column-gap: 30px;
-  column-rule: 1px solid black;
-  column-span: all;  
-  
-  width: 100%;
-  border: 2px solid #ccc;
-  padding: 10px;
-  margin-bottom: 30px;
-   max-width: 35%;
-   margin: 10% auto;
+max-width: 25%;
+  margin: 5% auto;
+   color: white;
 }
 .selectedVehicle {
   text-align: center;
