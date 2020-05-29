@@ -43,12 +43,12 @@ max-width: 25%;
    color: white;
 }
 .selectedVehicle {
-  text-align: center;
+text-align: center;
   width: 100%;
-  font-size: 20px;
-  padding: 3px;
-  border: 1px solid black;
+  font-size: 1.4vw;
+  padding: 20px;
+  margin: 20px 0;
   box-sizing: border-box;
-  background: lightblue;
+  background: rgb(43, 121, 86);
 }
 </style>
