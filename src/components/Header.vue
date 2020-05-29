@@ -2,9 +2,6 @@
   <nav>
     <ul>
       <li>
-        <router-link to="/home" exact>Home</router-link>
-      </li>
-      <li>
         <router-link to="/people" exact>Actors</router-link>
       </li>
       <li>

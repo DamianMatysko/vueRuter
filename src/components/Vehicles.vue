@@ -40,7 +40,7 @@ export default {
 #vehicles {
 max-width: 25%;
   margin: 5% auto;
-   color: white;
+   color: white;  
 }
 .selectedVehicle {
 text-align: center;
